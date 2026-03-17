@@ -1,3 +1,6 @@
+
+<img width="100" height="100" alt="Unknown" src="https://github.com/user-attachments/assets/09be417d-6a24-4312-9310-39ac8615e4b5" />
+
 # Instacart Grocery Basket Analysis
 The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products. This analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products. The stakeholders would like to be able to answer the following key questions:
 # Key Questions
